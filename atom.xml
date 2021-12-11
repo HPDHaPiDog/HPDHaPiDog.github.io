@@ -6,7 +6,7 @@
   <link href="https://hapidog.fun/atom.xml" rel="self"/>
   
   <link href="https://hapidog.fun/"/>
-  <updated>2021-12-11T08:27:04.348Z</updated>
+  <updated>2021-12-11T14:32:19.755Z</updated>
   <id>https://hapidog.fun/</id>
   
   <author>
@@ -17,23 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://hapidog.fun/posts/16107/"/>
-    <id>https://hapidog.fun/posts/16107/</id>
-    <published>2021-12-11T08:27:04.347Z</published>
-    <updated>2021-12-11T08:27:04.348Z</updated>
+    <title>Java重大安全漏洞被发现</title>
+    <link href="https://hapidog.fun/posts/167GEA/"/>
+    <id>https://hapidog.fun/posts/167GEA/</id>
+    <published>2021-12-10T16:00:00.000Z</published>
+    <updated>2021-12-11T14:32:19.755Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;昨天早上，流行度超高的-Java-日志框架-Log4j2-，被曝出了一个惊天大漏洞&quot;&gt;&lt;a href=&quot;#昨天早上，流行度超高的-Java-日志框架-Log4j2-，被曝出了一个惊天大漏洞&quot; class=&quot;headerlink&quot;</summary>
         
       
     
     
     
+    <category term="Anti" scheme="https://hapidog.fun/categories/Anti/"/>
+    
+    
+    <category term="Minecraft" scheme="https://hapidog.fun/tags/Minecraft/"/>
+    
+    <category term="我的世界" scheme="https://hapidog.fun/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/"/>
+    
+    <category term="安全" scheme="https://hapidog.fun/tags/%E5%AE%89%E5%85%A8/"/>
     
   </entry>
   

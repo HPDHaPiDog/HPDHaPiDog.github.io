@@ -4,13 +4,29 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/posts/16107/"/>
-      <url>/posts/16107/</url>
+      <title>Java重大安全漏洞被发现</title>
+      <link href="/posts/167GEA/"/>
+      <url>/posts/167GEA/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
+        <content type="html"><![CDATA[<h2 id="昨天早上，流行度超高的-Java-日志框架-Log4j2-，被曝出了一个惊天大漏洞"><a href="#昨天早上，流行度超高的-Java-日志框架-Log4j2-，被曝出了一个惊天大漏洞" class="headerlink" title="昨天早上，流行度超高的 Java 日志框架 Log4j2 ，被曝出了一个惊天大漏洞"></a>昨天早上，流行度超高的 Java 日志框架 Log4j2 ，被曝出了一个惊天大漏洞</h2><p>该漏洞最早是被阿里云安全团队发现的，并在 11 月 24 日就报告给了 Apache 官方。随后，在 2021 年 12 月 7 日Apache 官方发布了针对此漏洞的补丁版（ log4j-2.15.0-rc1 ）。<br>攻击者可以利用此漏洞<strong>远程执行代码</strong>，最终获得服务器的最高权限，接下来，就可以为所欲为了。</p><h2 id="Minecraft惨遭波及"><a href="#Minecraft惨遭波及" class="headerlink" title="Minecraft惨遭波及"></a>Minecraft惨遭波及</h2><p>而与此同时,许多与Java有关的程序都无法幸免,其中自然少不了我们的Java版Minecraft了<br>因为这次漏洞,大量服务器受到攻击,而正在其中游玩的玩家有不少成了黑客的矿机</p><p>为了应对此次事件,Mojang官方已经在官方启动器紧急推送了安全补丁,但是目前网易版我的世界似乎没有做出举措<br>撇开网易版不谈,目前国际版的情况同样不容乐观,大量第三方启动器用户受到攻击</p><blockquote><p>我们已确认 MC 1.7.x 至 1.18.x 的客户端与官方服务端均被一个 Java 远程代码执行漏洞影响，该漏洞理论可以让 任意服务器或进入服务器的玩家 的电脑遭到攻击，执行黑客编写的恶意程序。<br>截止本文发布，Mojang 官方已发布了修复补丁，网易代理的我的世界中国版情况不明。但是 MC 服务器、非官方客户端以及 MC 的老版本依然可能受到攻击。<br>作者：PCL2开发者:龙腾猫跃 <a href="https://www.bilibili.com/read/cv14361820">https://www.bilibili.com/read/cv14361820</a> 出处：bilibili</p></blockquote><h3 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h3><p>当然国内第三方启动器作者的速度也是比较快的</p><ul><li>PCL2已经推送了新的安全紧急更新以防御此漏洞</li><li>BakaXL启动器也发布了紧急更新</li><li>对于其他启动器,可以在 “Java 虚拟机参数” 一项中输入 <code>-XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true</code>以临时防御此漏洞!</li></ul><link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       
       
+      <categories>
+          
+          <category> Anti </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Minecraft </tag>
+            
+            <tag> 我的世界 </tag>
+            
+            <tag> 安全 </tag>
+            
+        </tags>
       
     </entry>
     
