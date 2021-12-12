@@ -6,7 +6,7 @@
   <link href="https://hapidog.fun/atom.xml" rel="self"/>
   
   <link href="https://hapidog.fun/"/>
-  <updated>2021-12-11T14:39:30.699Z</updated>
+  <updated>2021-12-12T04:06:10.551Z</updated>
   <id>https://hapidog.fun/</id>
   
   <author>
@@ -17,11 +17,44 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>你这Hexo博客有点慢啊,试试CloudFlare!</title>
+    <link href="https://hapidog.fun/posts/3XD2BYP/"/>
+    <id>https://hapidog.fun/posts/3XD2BYP/</id>
+    <published>2021-12-11T16:00:00.000Z</published>
+    <updated>2021-12-12T04:06:10.551Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;CloudFlare&quot;&gt;&lt;a href=&quot;#CloudFlare&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Internet互联网" scheme="https://hapidog.fun/categories/Internet%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+    <category term="CDN" scheme="https://hapidog.fun/categories/Internet%E4%BA%92%E8%81%94%E7%BD%91/CDN/"/>
+    
+    
+    <category term="Hexo" scheme="https://hapidog.fun/tags/Hexo/"/>
+    
+    <category term="CloudFlare" scheme="https://hapidog.fun/tags/CloudFlare/"/>
+    
+    <category term="Github" scheme="https://hapidog.fun/tags/Github/"/>
+    
+    <category term="Git" scheme="https://hapidog.fun/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Java重大安全漏洞被发现</title>
     <link href="https://hapidog.fun/posts/167GEA/"/>
     <id>https://hapidog.fun/posts/167GEA/</id>
     <published>2021-12-10T16:00:00.000Z</published>
-    <updated>2021-12-11T14:39:30.699Z</updated>
+    <updated>2021-12-12T03:16:59.483Z</updated>
     
     
       
@@ -34,7 +67,9 @@
     
     
     
-    <category term="安全信息" scheme="https://hapidog.fun/categories/%E5%AE%89%E5%85%A8%E4%BF%A1%E6%81%AF/"/>
+    <category term="Internet互联网" scheme="https://hapidog.fun/categories/Internet%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+    <category term="安全信息" scheme="https://hapidog.fun/categories/Internet%E4%BA%92%E8%81%94%E7%BD%91/%E5%AE%89%E5%85%A8%E4%BF%A1%E6%81%AF/"/>
     
     
     <category term="Minecraft" scheme="https://hapidog.fun/tags/Minecraft/"/>
