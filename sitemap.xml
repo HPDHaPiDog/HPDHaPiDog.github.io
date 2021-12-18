@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hapidog.fun/posts/3XD2BYP/</loc>
+    <loc>https://hapidog.fun/posts/167GEA/</loc>
     
-    <lastmod>2021-12-12</lastmod>
+    <lastmod>2021-12-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://hapidog.fun/posts/167GEA/</loc>
+    <loc>https://hapidog.fun/posts/3XD2BYP/</loc>
     
-    <lastmod>2021-12-12</lastmod>
+    <lastmod>2021-12-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
   <url>
     <loc>https://hapidog.fun/WallPapers/index.html</loc>
     
-    <lastmod>2021-12-12</lastmod>
+    <lastmod>2021-12-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,7 +67,7 @@
 
   <url>
     <loc>https://hapidog.fun/</loc>
-    <lastmod>2021-12-12</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,49 +75,49 @@
   
   <url>
     <loc>https://hapidog.fun/tags/Hexo/</loc>
-    <lastmod>2021-12-12</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hapidog.fun/tags/CloudFlare/</loc>
-    <lastmod>2021-12-12</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hapidog.fun/tags/Github/</loc>
-    <lastmod>2021-12-12</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hapidog.fun/tags/Git/</loc>
-    <lastmod>2021-12-12</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hapidog.fun/tags/Minecraft/</loc>
-    <lastmod>2021-12-12</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hapidog.fun/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
-    <lastmod>2021-12-12</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hapidog.fun/tags/%E5%AE%89%E5%85%A8/</loc>
-    <lastmod>2021-12-12</lastmod>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -125,22 +125,29 @@
 
   
   <url>
-    <loc>https://hapidog.fun/categories/Internet%E4%BA%92%E8%81%94%E7%BD%91/</loc>
-    <lastmod>2021-12-12</lastmod>
+    <loc>https://hapidog.fun/categories/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hapidog.fun/categories/Internet%E4%BA%92%E8%81%94%E7%BD%91/CDN/</loc>
-    <lastmod>2021-12-12</lastmod>
+    <loc>https://hapidog.fun/categories/%E6%9D%82%E8%B0%88/</loc>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hapidog.fun/categories/Internet%E4%BA%92%E8%81%94%E7%BD%91/%E5%AE%89%E5%85%A8%E4%BF%A1%E6%81%AF/</loc>
-    <lastmod>2021-12-12</lastmod>
+    <loc>https://hapidog.fun/categories/%E6%95%99%E7%A8%8B/Hexo%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2021-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hapidog.fun/categories/%E6%9D%82%E8%B0%88/%E5%AE%89%E5%85%A8/</loc>
+    <lastmod>2021-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
